@@ -1,18 +1,21 @@
 # Personal-Finance-Tracker
 Personal Finance Tracker 📊💰
-This is a Python-based Personal Finance Tracker that helps users manage their finances by tracking total income and total expenses over time. 
-The project utilizes Python methods for calculations and Matplotlib for data visualization.
+
+This is a Python-based Personal Finance Tracker that helps users manage their finances by tracking 
+total income and total expenses over time. The project utilizes Python methods for calculations and 
+Matplotlib for data visualization.
 
 Features 🚀
-Track Income & Expenses: Enter your income and expenses, and the program calculates the totals.
 
-Financial Overview: Get insights into your spending habits and savings.
+1. Track Income & Expenses: Enter your income and expenses, and the program calculates the totals.
 
-Graphical Representation: Uses Matplotlib to display income vs. expense trends over time.
+2. Financial Overview: Get insights into your spending habits and savings.
 
-Simple & User-Friendly: Designed for easy usage with a clean and intuitive interface.
+3. Graphical Representation: Uses Matplotlib to display income vs. expense trends over time.
+
+4. Simple & User-Friendly: Designed for easy usage with a clean and intuitive interface.
 
 Technologies Used 🛠️
-Python: Core logic for tracking finances
 
-Matplotlib: Data visualization for better insights
+1. Python: Core logic for tracking finances
+2. Matplotlib: Data visualization for better insights
